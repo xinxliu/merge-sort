@@ -26,5 +26,5 @@ def merge(lSeq,rSeq):
 
 a = merge_sort([3,4,7,1,2,9,4])
 
-b = merge_sort([2,5,9,4,5,2])
+#b = merge_sort([2,5,9,4,5,2])
 
